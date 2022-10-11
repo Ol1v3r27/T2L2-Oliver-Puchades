@@ -38,3 +38,11 @@ cd T2L2
 pwd
 cat demo.txt | grep esta
 --------------------------------------------------------
+5. Mostra les línies que continguen la cadena “línia”, independentment si és amb minúscula o majúscula.
+Comando:
+cd /home/
+cd /user/
+cd T2L2
+pwd
+cat demo.txt | grep –i línia
+--------------------------------------------------------
