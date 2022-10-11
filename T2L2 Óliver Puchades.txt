@@ -1,0 +1,10 @@
+T2L2 Óliver Puchades Pinel
+1. Fes una carpeta anomenada T2L2 dins del teu home 
+--------------------------------------------------------
+Comando:
+cd /home/
+cd /user/
+pwd
+mkdir T2L2
+ls
+--------------------------------------------------------
