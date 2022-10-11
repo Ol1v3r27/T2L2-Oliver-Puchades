@@ -30,3 +30,11 @@ La línia de dalt està en blanc
 Esta és l’ última línia
 Presionem Ctrl + D i el tenim
 --------------------------------------------------------
+4. Mostra les línies que continguen la cadena “esta” amb el comando grep.
+Comando:
+cd /home/
+cd /user/
+cd T2L2
+pwd
+cat demo.txt | grep esta
+--------------------------------------------------------
