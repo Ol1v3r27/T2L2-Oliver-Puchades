@@ -46,3 +46,14 @@ cd T2L2
 pwd
 cat demo.txt | grep –i línia
 --------------------------------------------------------
+6. Fes un directori “prova” i copia el fitxer “demo.txt” dins del mateix. Copia també el fitxer “demo.txt” al directori actual amb el nom “demo2.txt”. Mostra les línies que apareixen en tots el fitxers que hi haja al directori i subdirectoris actuals amb la paraula “línia”.
+Comando:
+cd /home/
+cd /user/
+cd /T2L2/
+pwd
+mkdir prova
+cp demo.txt prova/
+cd ..
+cp demo.txt demo2.txt
+cat T2L2 | grep –R línia
